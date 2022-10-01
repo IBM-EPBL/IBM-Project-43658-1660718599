@@ -1,0 +1,29 @@
+.container{
+    padding: 5%;
+    justify-content: center;
+    display: flex;
+}
+.container2{
+    padding: 10%;
+    text-align: center;
+}
+.form{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: center;
+}
+.btn,#btn{
+    align-self: center;
+    border: none;
+    color: aliceblue;
+    background-color: #6FC42B ;
+    padding: 2%;
+    margin-top: 4%;
+}
+.element {
+    padding: 2%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
