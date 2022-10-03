@@ -1,0 +1,45 @@
+
+Why is Python a popular programming language ?
+
+The language is the most accessible among all the programming languages available because it has simplified syntax 
+that is not complicated at all and gives more emphasis on natural language.
+
+According to expert professional web developers, Python is among the most convenient programming languages among 
+the other alternatives.
+
+Due to its corporate sponsorship and big supportive community of python, python has excellent libraries that you 
+can use to select and save your time and effort on the initial cycle of development. There are also lots of cloud 
+media services that offer cross-platform support through library-like tools, which can be extremely beneficial
+
+Python doesn’t restrict developers from developing any sort of application. This kind of freedom and flexibility 
+by just learning one language is not available in other programming languages.
+
+What are the other Frameworks that can be used with python ?
+
+Bottle
+CherryPy
+AIOHTTP
+Dash
+Falcon
+Flask
+Giotto
+Django
+Growler
+Uvloop
+Sanic
+MorePath
+Picnic
+Pylons Framework
+Pyramid
+TurboGears
+Web2py
+Hug
+CubicWeb
+
+Full form of WSGI ? 
+
+WSGI - Web Server Gateway Interface.
+
+WSGI is a specification that describes the communication between web servers and Python web applications or frameworks. 
+It explains how a web server communicates with python web applications/frameworks and how web applications/frameworks can 
+be chained for processing a request.
